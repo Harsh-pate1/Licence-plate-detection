@@ -42,7 +42,7 @@ This project implements a license plate detection and recognition system that us
 1. Clone the repository or download the project files:
 
 ```powershell
-git clone https://github.com/KanhaiyaChhaparwal24/license-plate-detection.git
+git clone https://github.com/Harsh-pate1/license-plate-detection.git
 cd license-plate-detection
 ```
 
@@ -132,10 +132,10 @@ You can customize the system by:
 
 ## Contributors
 
+- **<a href="https://www.linkedin.com/in/harshkasundra/">Harsh Kasundra</a>**
+- **<a href="https://www.linkedin.com/in/divyaksh-chachan/">Divyaksh Chachan</a>**
 - **<a href="https://www.linkedin.com/in/kanhaiya-chhaparwal/">Kanhaiya Chhaparwal</a>**
 - **<a href="https://www.linkedin.com/in/AnujSule/">Anuj Sule</a>**
-- **<a href="https://www.linkedin.com/in/divyaksh-chachan/">Divyaksh Chachan</a>**
-- **<a href="https://www.linkedin.com/in/harshkasundra/">Harsh Kasundra</a>**
 
 ## Acknowledgments
 
